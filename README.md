@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm passionate about **driver development, embedded systems, and AI accelerators**. I enjoy working on **low-level programming** and **hardware-related projects**.
 
 ## 🛠️ What I’m Working On
-- **AI Accelerator** using systolic array architecture
+- **AI Accelerator** 
 - **Firmware and driver development** for embedded systems
 - Experimenting with **PicoRV32**
 
