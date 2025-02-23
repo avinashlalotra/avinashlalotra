@@ -1,11 +1,25 @@
-- 👋 Hi, I’m @avinashlalotra
-- 👀 I’m interested in low level Programming 
-- 🌱 I’m currently learning Systems Programming
-- 💞️ I’m looking to collaborate on  System Software projects
-- 📫 How to reach me ...
-- ⚡ Fun fact: ...
+# Hi there! 👋
 
-<!---
-avinashlalotra/avinashlalotra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my GitHub profile! I'm passionate about **driver development, embedded systems, and AI accelerators**. I enjoy working on **low-level programming** and **hardware-related projects**.
+
+## 🛠️ What I’m Working On
+- **AI Accelerator** using systolic array architecture
+- **Firmware and driver development** for embedded systems
+- Experimenting with **PicoRV32**
+
+## 📌 Interests
+- **Embedded Systems & Low-Level Programming**
+- **AI Hardware Acceleration**
+- **Open-Source Projects**
+- **Linux & Kernel Development**
+
+
+
+## 📫 Connect with Me
+- **GitHub**: You're already here! 😉
+
+## 🚀 Fun Fact
+I grew up in **Jammu and Kashmir**, spending a lot of time in the sun, grazing cows, and doing heavy labor in extreme weather. I love the **village lifestyle** of farming, fresh air, and natural food!
+
+---
+💡 Always learning, always building! Let’s connect and collaborate. 🚀
