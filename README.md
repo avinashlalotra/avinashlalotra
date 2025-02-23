@@ -12,8 +12,11 @@ Welcome to my GitHub profile! I'm passionate about **driver development, embedde
 - **AI Hardware Acceleration**
 - **Open-Source Projects**
 - **Linux & Kernel Development**
-
-
+## 🧑‍💻 Skills
+- **Programming Languages**: C/C++, Python, Assembly
+- **Embedded Systems**: Microcontrollers, FPGA, Embedded Linux
+- **AI & ML**: Edge AI, TensorFlow Lite
+- **Operating Systems**: Linux, Bare-metal programming
 
 ## 📫 Connect with Me
 - **GitHub**: You're already here! 😉
