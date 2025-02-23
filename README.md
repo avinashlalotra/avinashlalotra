@@ -19,7 +19,6 @@ Welcome to my GitHub profile! I'm passionate about **driver development, embedde
 - **GitHub**: You're already here! 😉
 
 ## 🚀 Fun Fact
-I grew up in **Jammu and Kashmir**, spending a lot of time in the sun, grazing cows, and doing heavy labor in extreme weather. I love the **village lifestyle** of farming, fresh air, and natural food!
 
 ---
 💡 Always learning, always building! Let’s connect and collaborate. 🚀
